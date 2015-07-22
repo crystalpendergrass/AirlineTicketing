@@ -1,6 +1,6 @@
 # AirlineTicketing
 
-Detailed documentation can be found in FinalProject_PendergrassC.docx.
+Detailed documentation can be found in FinalProject_PendergrassC.docx. Wireframes from application done in Balsamiq Mockups. 
 
 The airline registration program allows the user to select a flight and enter personal details and ticket holder details.  This information is added to a MS Access database.  The user can also search for a ticket holder and view the ticket holder details.  The user can also delete a ticket holder, freeing the ticket holder's seat
 
